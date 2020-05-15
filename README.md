@@ -1,6 +1,6 @@
 # glutamate-cell-dynamics
 
-## Abstract ##:
+## Abstract:
 Glutamate is the main excitatory neurotransmitter produced in the brain. It is produced physiologically to communicate information between neurons. However, after a traumatic brain injury (TBI) glutamate is over produced. High levels of glutamate after a TBI are associated to the occurrence of seizures, cognitive impairment and cell death. There is an article published studying a promising treatment for TBI, Retigabine. Such drug was able to impair some of the TBI-induced deleterious effects like seizures and cell death. We now aim to investigate the mechanism by which this drug is acting. To do so they have recorded videos imaging the levels of glutamate that “bath” neurons in the brain of mice before and after a TBI. Half of the animals will receive retigabine treatment and half willreceive only vehicle injection. The mice will be imaged in the morning, subjected to a TBI and image again immediately after the TBI, all within the same day. As explained in their grant proposal, the neurons of these mice express a fluorescent reporter that emits light when glutamate binds to it. Therefore, they expect that the intensity of the fluorescence signal per cell, as well as the number of cells emitting light, increase after the TBI. So, they need a script that can identify these cells and quantify the intensity of fluorescent signal in each cell throughout the video recording.
 
 
